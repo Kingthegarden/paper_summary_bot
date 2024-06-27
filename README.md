@@ -24,3 +24,4 @@ URL(저장위치)입력만으로 실시간으로 등재되는 수많은 논문�
 
 ## 요약결과
 
+![inital](https://github.com/Kingthegarden/paper_summary_bot/assets/63918254/424a170d-20eb-42d2-b42b-3f2c7467e213)
