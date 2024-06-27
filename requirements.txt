@@ -1,0 +1,12 @@
+botbuilder-integration-aiohttp>=4.14.0
+openai==0.28
+langchain
+google-search-results
+wikipedia
+faiss-cpu
+tiktoken
+promptlayer
+unstructured[local-inference]
+pypdf
+fastapi
+uvicorn[standard]
