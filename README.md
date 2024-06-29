@@ -1,4 +1,5 @@
-#Paper Summary Bot
+# Paper Summary Bot
+<hr>
 
 ## 개요
 MS Teams에서 유저와 봇의 상호작용만으로 요약된 논문을 빠르게 읽을 수 있는 봇 개발
